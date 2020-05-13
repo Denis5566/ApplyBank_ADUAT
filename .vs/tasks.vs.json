@@ -5,6 +5,11 @@
       "taskLabel": "工作-新增資料夾 (2)",
       "appliesTo": "/",
       "type": "launch"
+    },
+    {
+      "taskLabel": "工作-New File4",
+      "appliesTo": "New File4",
+      "type": "launch"
     }
   ]
 }
